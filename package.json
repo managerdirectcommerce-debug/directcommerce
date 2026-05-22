@@ -1,0 +1,16 @@
+{
+  "name": "directcommerce",
+  "version": "1.0.0",
+  "description": "DirectCommerce - Simplifying Ecommerce",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "build": "echo 'Static HTML site - no build needed'"
+  },
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.12"
+  },
+  "devDependencies": {},
+  "keywords": ["ecommerce", "static-site"],
+  "author": "",
+  "license": "ISC"
+}
